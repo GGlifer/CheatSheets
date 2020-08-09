@@ -3,8 +3,8 @@
 
 ## Index
 
-- [주석 / Comment](#주석-comment)
-- [계산 / Calculation](#계산-)
+- [주석 / Comment](#주석--comment)
+- [계산 / Calculation](#계산--calculation)
 
 ## 주석 / Comment
 
@@ -19,7 +19,7 @@
 '''
 ```
 
-## 계산 / Calculatino
+## 계산 / Calculation
 
 ```Python3
 5 // 2 # 2
